@@ -7,3 +7,6 @@
 所有课程来源于华科网课.
 
 Logisim这个东西需要进Logisim.app目录下找Java源文件Java -jar logisim.jar
+
+修改了一下目录，项目放在此目录下warehouse目录下
+
